@@ -5,7 +5,7 @@ using namespace std;
 class Animal {
 public:
     void comer() {
-        cout<<"El animal come";
+        cout<<"El animal come"<<endl;
         // ...
     }
 };
@@ -13,7 +13,7 @@ public:
 class Perro : public Animal {
 public:
     void ladrar() {
-        cout<<"\nEl perro ladra";
+        cout<<"El perro ladra";
     }
 };
 
