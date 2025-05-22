@@ -1,6 +1,6 @@
 ```mermaid
  classDiagram
-    %definir la clase
+  
     class Forma{
     +Figura
 }
