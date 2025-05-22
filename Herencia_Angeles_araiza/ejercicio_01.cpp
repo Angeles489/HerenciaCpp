@@ -12,7 +12,7 @@ public:
         nombre=_nom;
     }
     void comer() {
-        cout << "El animal " << nombre<<" come"<< endl;
+        cout << "El " << nombre<<" come"<< endl;
     }
 };
 
