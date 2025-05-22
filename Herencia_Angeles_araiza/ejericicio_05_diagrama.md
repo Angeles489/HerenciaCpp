@@ -5,10 +5,10 @@
     +Figura
 }
     Class Cuadrado{
-    +Cuatro(): void 
+      +Cuatro(): void 
 }
     Class Circulo{
-    +Una():void
+      +Una():void
 }
     Forma <| -- Cuadrado
     Forma <| -- Circulo 
