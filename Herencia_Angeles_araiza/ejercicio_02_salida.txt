@@ -1,0 +1,2 @@
+Empleado: Juan
+Edad: 22 años
