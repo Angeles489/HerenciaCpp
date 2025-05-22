@@ -4,8 +4,12 @@
     class Forma{
     +Figura
 }
-    Class Cuadrado{}
-    Class Circulo{}
+    Class Cuadrado{
+    +Cuatro
+}
+    Class Circulo{
+    +Una
+}
     Forma <| -- Cuadrado
     Forma <| -- Circulo 
 ```
