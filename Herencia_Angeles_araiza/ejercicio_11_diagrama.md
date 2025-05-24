@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Dispositivo {
         string marca
@@ -10,3 +11,4 @@ classDiagram
     Telefono ..|> Dispositivo : virtual
     Smartphone --|> Tablet
     Smartphone --|> Telefono
+```
