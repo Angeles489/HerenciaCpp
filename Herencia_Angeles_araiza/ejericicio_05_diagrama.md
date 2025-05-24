@@ -8,6 +8,6 @@
 class Cuadrado
 class Circulo
 
-Cuadrado --|> Forma
 Forma <|-- Circulo
+Forma <|-- Cuadrado
 ```
